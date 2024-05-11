@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What temperature does water boil at?",
+    "option1": "50 degrees Celcius",
+    "option2": "25 degrees Celcius",
+    "option3": "100 degrees Celcius",
+    "option4": "150 degrees Celcius",
+    "ans": 3
+  },
+  {
+    "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
+    "option1": "Wole Soyinka",
+    "option2": "William Shakespeare",
+    "option3": "Ngozi Chimamanda Adichie",
+    "option4": "Dan Brown",
+    "ans": 2
+  },
+  {
+    "question": "What did the crocodile swallow in Peter Pan?",
+    "option1": "A Book",
+    "option2": "A Computer",
+    "option3": "A pair of shoes",
+    "option4": "Alarm Clock",
+    "ans": 4
+  },
+  {
+    "question": "Which is the only mammal that can’t jump?",
+    "option1": "Dog",
+    "option2": "Elephant",
+    "option3": "Goat",
+    "option4": "Lion",
+    "ans": 2
+  },
+  {
+    "question": "Who lived at 221B, Baker Street, London?",
+    "option1": "Tony Stark",
+    "option2": "Morgan Freeman",
+    "option3": "Sherlock Holmes",
+    "option4": "Samuel L. Jackson",
+    "ans": 3
+  },
+  {
+    "question": "What colour is a panda?",
+    "option1": "Green and Yellow",
+    "option2": "Blue and Red",
+    "option3": "Green and White",
+    "option4": "Black and White",
+    "ans": 4
+  },
+  {
+    "question": "Where is the smallest bone in the human body?",
+    "option1": "The Chest",
+    "option2": "The Ear",
+    "option3": "The Legs",
+    "option4": "The Hands",
+    "ans": 2
+  },
+  {
+    "question": "What does the roman numeral C represent?",
+    "option1": "100",
+    "option2": "10",
+    "option3": "10,000",
+    "option4": "1,000,000",
+    "ans": 1
+  },
+  {
+    "question": "What takes place in Hong Kong's Happy Valley?",
+    "option1": "Chicken Wrestling",
+    "option2": "Horse racing",
+    "option3": "Street Racing",
+    "option4": "Arm Wrestling",
+    "ans": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "option1": "Alexander Graham Bell",
+    "option2": "Sir Isaac Newton",
+    "option3": "Leonardo Da Vinci",
+    "option4": "Albert Einstein",
+    "ans": 3
+  },
+  {
+    "question": "What’s the most important book in the Moslem religion?",
+    "option1": "The Koran",
+    "option2": "The Dictionary",
+    "option3": "The Bible",
+    "option4": "The Chemistry text Book",
+    "ans": 1
+  },
+  {
+    "question": "What’s the capital of Ethiopia?",
+    "option1": "Cape Town",
+    "option2": "San Francisco",
+    "option3": "Abuja",
+    "option4": "Syndey",
+    "ans": 3
+  },
+  {
+    "question": "How many squares are there on a chess board?",
+    "option1": "128",
+    "option2": "64",
+    "option3": "32",
+    "option4": "256",
+    "ans": 2
+  },
+  {
+    "question": "Who invented the electric light bulb?",
+    "option1": "Tom Cruise",
+    "option2": "Barack Obama",
+    "option3": "Wole Soyinka",
+    "option4": "Thomas Edison",
+    "ans": 4
+  },
+  {
+    "question": "What are the first three words of the bible?",
+    "option1": "be with everyone",
+    "option2": "Again Jesus asked",
+    "option3": "In the beginning",
+    "option4": "At that time",
+    "ans": 3
+  }
+]
